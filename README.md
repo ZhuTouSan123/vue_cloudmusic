@@ -1,24 +1,5 @@
-# vue-cloudmusic
+# 基于vue+vant+[NeteaseCloudMusicApi](https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi)实现的网易云音乐
 
-## Project setup
-```
-npm install
-```
+## 技术栈
+  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
