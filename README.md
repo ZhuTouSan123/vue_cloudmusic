@@ -9,17 +9,17 @@
   
   
 ## 项目功能模块及预览
-  1.首页</br>
+  ### 首页
   &emsp;&emsp;搜索</br>
   &emsp;&emsp;轮播图</br>
   &emsp;&emsp;每日推荐 排行榜等</br>
   &emsp;&emsp;推荐歌单</br>
-  2.账号页面</br>
+  ### 账号页面
   &emsp;&emsp;账号密码登录</br>
   &emsp;&emsp;手机验证码登录</br>
-  3.歌单详情页</br>
+  ### 歌单详情页
   &emsp;&emsp;简单的列表列出前N首歌曲</br>
-  4.歌曲详情页</br>
+  ### 歌曲详情页
   &emsp;&emsp;播放控件+歌词</br></br>
       
   
